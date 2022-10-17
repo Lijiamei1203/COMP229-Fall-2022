@@ -1,6 +1,6 @@
 {
-  "name": "week-3.1",
-  "version": "0.0.0",
+  "name": "comp229",
+  "version": "0.0.2",
   "private": true,
   "scripts": {
     "start": "node ./server.js"
@@ -17,5 +17,18 @@
     "morgan": "~1.9.1",
     "nodemon": "^2.0.20",
     "popper.js": "^1.16.1"
-  }
+  },
+  "description": "app for comp229",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lijiamei1203/COMP229-Fall-2022.git"
+  },
+  "author": "Jiamei Li",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lijiamei1203/COMP229-Fall-2022/issues"
+  },
+  "homepage": "https://github.com/Lijiamei1203/COMP229-Fall-2022#readme"
 }
